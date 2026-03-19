@@ -1,47 +1,180 @@
+# 🪱 WORMBASS V4
 
-🪱 WORMBASS V4 — HOW TO USE
-Getting Started
-Hit ▶ PLAY to start the bassline engine. The worms will emerge and react to the music. Use RANDOMIZE to generate a new bassline instantly, or click individual step pads to build your own pattern.
-Transport & Tempo
-▶ PLAY / ⏸ PAUSEStart or pause the sequencer
-■ STOPStop and reset position
-BPM ‹ ›Nudge BPM by 1. «/» jumps by 5
-SWINGDrag to add groove shuffle feel
-🔥 DROPTriggers an explosive bass drop + filter sweep
-Groove Modes
-D&B174 BPM half-time, heavy Reese bass, classic drum & bass patterns
-BREAKS140 BPM funky breakbeat syncopation, high swing
-ACID135 BPM rolling 303-style, lots of slides & filter movement
-GLITCH150 BPM stuttered chaos, extreme micro-timing
-Soil Modes (Bass Character)
-DIRTA minor — dark, warm, earthy basslines
-METALE phrygian — tense, industrial, grinding
-FLESHD pentatonic — funky, organic, melodic
-VOIDF# minor — deep, mysterious, eerie
-Step Sequencer
-CLICK padToggle step on or off
-A buttonACCENT — louder hit + filter spike
-S buttonSLIDE — portamento glide from previous note
-🎲 RANDOMIZEGenerate a new groove-aware bassline
-The engine mutates the pattern automatically over time based on the CHAOS knob. Lower chaos = stable pattern, higher = constantly evolving.
-Sound Knobs (drag up/down · double-click to type)
-DETUNESpread between the two Reese oscillators — wider = fatter/chorused
-SHAPEWaveshaping amount on the mid layer — adds harmonic grit
-DEPTHOverall heaviness — affects envelope sustain and sub level
-CHAOSPattern mutation rate — how fast the bassline evolves
-CUTOFFLow-pass filter frequency — roll off the highs for warmth
-RESFilter resonance — adds the acid 303 squelch
-ENV→FHow much the envelope opens the filter on each note
-DRIVESoft saturation amount — adds warmth and weight
-LFO1 R/DRate and depth of slow filter wobble
-LFO2 R/DRate and depth of fast pitch/texture wobble
-Layer Mix (drag the bars)
-SUBPure sine sub-bass — the weight you feel in your chest
-MIDReese detuned saws — the main bass character
-TOPHigh-passed grit + click transient — attack definition
-Recording
-Click ⏺ RECORD or the RECORD button in the export bar to open the recording drawer. Choose your format (WEBM / WAV / MP3), duration, and quality. Hit START RECORDING — the drawer minimises automatically so you can keep working on the music while recording. Click the red tab at the bottom to re-open it. Hit STOP RECORDING when done and the file downloads automatically.
-Export & Seeds
-MIDIExport pattern as a .mid file to use in your DAW
-🔗 SEEDCopy a shareable link — anyone can recreate your exact patch
-📂 LOADLoad a previously saved .json patch file
+### Self-Digging Acid Bass Engine
+
+> A browser-based bass synthesizer that mutates its own grooves and drops filthy evolving basslines in real-time.
+
+---
+
+## 🔥 What is WORMBASS?
+
+WORMBASS is not a traditional sequencer.
+
+It’s a **living bass engine** that generates, mutates, and evolves acid-style basslines while you interact with it.
+
+Inspired by:
+
+* Acid techno (303-style movement)
+* Breakbeat & funk (groove + swing)
+* Modern bass music (heavy drops & texture)
+
+👉 No DAW required.
+👉 No install.
+👉 Just press play and dig.
+
+---
+
+## 🚀 Getting Started
+
+1. Hit **▶ PLAY** to start the engine
+2. Use **🎲 RANDOMIZE** to generate a new bassline instantly
+3. Adjust knobs to shape the sound
+4. Hit **🔥 DROP** and enjoy the chaos
+
+The worms will emerge… and the bass will evolve.
+
+---
+
+## 🎛️ Transport & Groove
+
+* ▶ **PLAY / ⏸ PAUSE** — Start or pause playback
+* ■ **STOP** — Reset sequence
+* **BPM ‹ › / « »** — Adjust tempo
+* **SWING** — Add groove and shuffle
+* 🔥 **DROP** — Trigger a massive bass drop + filter sweep
+
+---
+
+## 🥁 Groove Modes
+
+Each mode changes rhythm, feel, and sequencing behavior:
+
+* **D&B** — 174 BPM, heavy half-time drum & bass energy
+* **BREAKS** — 140 BPM, funky syncopation & swing
+* **ACID** — 135 BPM, rolling 303-style grooves
+* **GLITCH** — 150 BPM, chaotic micro-timing madness
+
+---
+
+## 🌍 Soil Modes (Bass Character)
+
+Defines the tonal and musical character of the bass:
+
+* **DIRT (A minor)** — Warm, dark, earthy bass
+* **METAL (E phrygian)** — Industrial, tense, aggressive
+* **FLESH (D pentatonic)** — Funky, organic, melodic
+* **VOID (F# minor)** — Deep, eerie, sub-heavy
+
+---
+
+## 🧬 Step Sequencer
+
+* Click pads to toggle steps
+* **A** = Accent (louder + filter spike)
+* **S** = Slide (acid-style glide)
+
+🎲 **RANDOMIZE** generates groove-aware patterns instantly
+
+The engine mutates patterns automatically based on the **CHAOS** control.
+
+---
+
+## 🧠 Sound Design Controls
+
+All knobs support drag or double-click input.
+
+### Core Tone
+
+* **DETUNE** — Reese spread (fatness / stereo width)
+* **SHAPE** — Harmonic distortion / wave shaping
+* **DEPTH** — Sub weight + envelope sustain
+
+### Movement
+
+* **CHAOS** — Mutation rate (stable → evolving)
+* **LFO1 (Rate/Depth)** — Slow filter movement
+* **LFO2 (Rate/Depth)** — Fast pitch / texture modulation
+
+### Filter
+
+* **CUTOFF** — Brightness / darkness
+* **RES** — Acid squelch
+* **ENV→F** — Envelope modulation amount
+
+### Drive
+
+* **DRIVE** — Saturation / warmth
+
+---
+
+## 🔊 Layer Mixing
+
+Blend the bass layers:
+
+* **SUB** — Clean sine sub (low-end power)
+* **MID** — Reese bass (main character)
+* **TOP** — Grit / transient attack
+
+---
+
+## ⏺ Recording
+
+* Click **RECORD** to open the recording drawer
+* Choose:
+
+  * Format (WAV / MP3 / WEBM)
+  * Duration
+  * Quality
+* Hit **START RECORDING**
+* File downloads automatically when finished
+
+---
+
+## 📤 Export & Sharing
+
+* **MIDI** — Export sequence to your DAW
+* 🔗 **SEED** — Share your exact bassline
+* 📂 **LOAD** — Import saved patches
+
+---
+
+## 🎯 Why WORMBASS?
+
+* Generates unique basslines every session
+* Combines synthesis + generative sequencing
+* Designed for experimentation and performance
+* Built entirely with Web Audio API
+
+---
+
+## ⚡ Tips
+
+* Low **CHAOS** = stable groove
+* High **CHAOS** = evolving madness
+* Combine **SWING + BREAKS mode** for funk
+* Use **DROP** for instant hype moments
+
+---
+
+## 🧑‍💻 Tech
+
+* HTML5 / CSS / JavaScript
+* Web Audio API
+* Canvas Visuals
+
+---
+
+## 💀 Made By
+
+**BEN94Z**
+
+---
+
+## 🚀 Try It
+
+👉 [www.wormbass.netlify.app]
+
+---
+
+> “You don’t program the bass…
+> you unleash it.”
